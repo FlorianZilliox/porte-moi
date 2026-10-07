@@ -1,7 +1,7 @@
 {
-  "name": "Porte-moi",
-  "short_name": "Porte-moi",
-  "description": "Porte-moi",
+  "name": "Rubble",
+  "short_name": "Rubble",
+  "description": "Rubble : deux frères orcs vaincus rentrent chez eux.",
   "lang": "en",
   "id": "./",
   "start_url": "./",
